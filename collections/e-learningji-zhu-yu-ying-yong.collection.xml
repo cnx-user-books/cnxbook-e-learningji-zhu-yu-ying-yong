@@ -1,0 +1,30 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="feng gao">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10682</md:content-id>
+    <md:title>e-learning技术与应用</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>zh</md:language>
+    <md:uuid>ba13a809-bb54-4d6d-8239-39f9162b1719</md:uuid>
+<md:slug>e-learningji-zhu-yu-ying-yong</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>电子学习的基本概念</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>相关术语</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>概念</md:title>
+          <col:content>
+            <col:subcollection>
+              <md:title>(Untitled)</md:title>
+              <col:content>                  </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
